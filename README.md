@@ -1,0 +1,1 @@
+Re-implementing LORA (sort of from scratch) for learning purposes. Based pretty heavily on the Huggingface LoRAAttnProcessor at https://github.com/huggingface/diffusers/blob/9141c1f9d5d8c40ce73c7d72a2fd5aedab8c031d/src/diffusers/models/attention_processor.py#L509
